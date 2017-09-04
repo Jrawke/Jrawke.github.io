@@ -1,6 +1,6 @@
 ---
-layout:default
-title:OwenHorwitz.com
+layout: default
+title: OwenHorwitz.com
 ---
 
 # Owen Horwitz

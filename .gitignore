@@ -1,0 +1,15 @@
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Gemfile
+Gemfile.lock
+
+# Jekyll build dir
+_site/
