@@ -1,3 +1,8 @@
+---
+layout:default
+title:OwenHorwitz.com
+---
+
 # Owen Horwitz
 
 E-mail: owen@owenhorwitz.com
