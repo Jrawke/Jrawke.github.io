@@ -11,5 +11,6 @@ tramp
 # Gemfile
 Gemfile.lock
 
-# Jekyll build dir
+# Jekyll files
 _site/
+_drafts/
